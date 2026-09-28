@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>SOS Guardian</string>
+<key>NSBluetoothAlwaysUsageDescription</key><string>SOS Guardian monitors the SOS_ESP32 emergency device.</string>
+<key>NSLocationWhenInUseUsageDescription</key><string>SOS Guardian uses your location for emergency coordinates.</string>
+</dict></plist>

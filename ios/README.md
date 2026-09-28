@@ -1,0 +1,1 @@
+The Flutter iOS project area is included conceptually. Run `flutter create .` on a Flutter development machine to regenerate version-specific Xcode scaffolding. iOS does not permit ordinary third-party apps to silently send SMS or silently place cellular calls, so the direct emergency SMS/call behavior is Android-specific.
